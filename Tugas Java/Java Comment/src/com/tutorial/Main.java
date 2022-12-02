@@ -14,3 +14,5 @@ public class Main {
         //inin adalah output print
         System.out.println("========PRINT========");
         System.out.print("hello world");
+    }
+}

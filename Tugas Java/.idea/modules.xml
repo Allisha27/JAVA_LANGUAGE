@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Array/Java Array.iml" filepath="$PROJECT_DIR$/Java Array/Java Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Break,Continue,Return/Java Break,Continue,Return.iml" filepath="$PROJECT_DIR$/Java Break,Continue,Return/Java Break,Continue,Return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Comment/Java Comment.iml" filepath="$PROJECT_DIR$/Java Comment/Java Comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Do While Loop/Java Do While Loop.iml" filepath="$PROJECT_DIR$/Java Do While Loop/Java Do While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Grading/Java Grading.iml" filepath="$PROJECT_DIR$/Java Grading/Java Grading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java If Else If Statement/Java If Else If Statement.iml" filepath="$PROJECT_DIR$/Java If Else If Statement/Java If Else If Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java If Else Statement/Java If Else Statement.iml" filepath="$PROJECT_DIR$/Java If Else Statement/Java If Else Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Komparasi/Java Komparasi.iml" filepath="$PROJECT_DIR$/Java Komparasi/Java Komparasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Konversi/Java Konversi.iml" filepath="$PROJECT_DIR$/Java Konversi/Java Konversi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Latihan Aritmatika/Java Latihan Aritmatika.iml" filepath="$PROJECT_DIR$/Java Latihan Aritmatika/Java Latihan Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Latihan Kalkulator/Java Latihan Kalkulator.iml" filepath="$PROJECT_DIR$/Java Latihan Kalkulator/Java Latihan Kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Nested If (if bersarang)/Java Nested If (if bersarang).iml" filepath="$PROJECT_DIR$/Java Nested If (if bersarang)/Java Nested If (if bersarang).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Operator Aritmatika/Java Operator Aritmatika.iml" filepath="$PROJECT_DIR$/Java Operator Aritmatika/Java Operator Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Operator Aritmatika (Binary)/Java Operator Aritmatika (Binary).iml" filepath="$PROJECT_DIR$/Java Operator Aritmatika (Binary)/Java Operator Aritmatika (Binary).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Operator Aritmatika (Unary)/Java Operator Aritmatika (Unary).iml" filepath="$PROJECT_DIR$/Java Operator Aritmatika (Unary)/Java Operator Aritmatika (Unary).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Operator Assigment/Java Operator Assigment.iml" filepath="$PROJECT_DIR$/Java Operator Assigment/Java Operator Assigment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Operator Logika/Java Operator Logika.iml" filepath="$PROJECT_DIR$/Java Operator Logika/Java Operator Logika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Output/Java Output.iml" filepath="$PROJECT_DIR$/Java Output/Java Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Pengelompokan Aritmatika/Java Pengelompokan Aritmatika.iml" filepath="$PROJECT_DIR$/Java Pengelompokan Aritmatika/Java Pengelompokan Aritmatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java String Args/Java String Args.iml" filepath="$PROJECT_DIR$/Java String Args/Java String Args.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Switch Case/Java Switch Case.iml" filepath="$PROJECT_DIR$/Java Switch Case/Java Switch Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Ternary Operator/Java Ternary Operator.iml" filepath="$PROJECT_DIR$/Java Ternary Operator/Java Ternary Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Tipe Data Primitive/Java Tipe Data Primitive.iml" filepath="$PROJECT_DIR$/Java Tipe Data Primitive/Java Tipe Data Primitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Variable/Java Variable.iml" filepath="$PROJECT_DIR$/Java Variable/Java Variable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java While Loop/Java While Loop.iml" filepath="$PROJECT_DIR$/Java While Loop/Java While Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program Java 01/Program Java 01.iml" filepath="$PROJECT_DIR$/Program Java 01/Program Java 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas Java.iml" filepath="$PROJECT_DIR$/Tugas Java.iml" />
+    </modules>
+  </component>
+</project>

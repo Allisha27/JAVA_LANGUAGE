@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9575d2da-5add-4b1e-b182-0568b3dc321c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Studi Kasus1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Piramida Bintang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Piramida Bintang/src/com/DemoFor/DemoPiramidaBintang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coba/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input,output/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../input,output/input,output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../konversi tipe data , aritmatika/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../konversi tipe data , aritmatika/konversi tipe data , aritmatika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operator comparison/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operator comparison/operator comparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operator logic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../operator logic/operator logic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable , tipe data , aritmatika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Array/Java Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Break,Continue,Return/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Break,Continue,Return/Java Break,Continue,Return.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Comment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Do While Loop/Java Do While Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java For Loop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Grading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Grading/Java Grading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java If Else If Statement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java If Else If Statement/Java If Else If Statement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java If Else Statement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java If Else Statement/Java If Else Statement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Latihan Aritmatika/Java Latihan Aritmatika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Latihan Kalkulator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Latihan Kalkulator/Java Latihan Kalkulator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Nested If (if bersarang)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Nested If (if bersarang)/Java Nested If (if bersarang).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Operator Aritmatika (Binary)/Java Operator Aritmatika (Binary).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Operator Logika/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Operator Logika/Java Operator Logika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Pengelompokan Aritmatika/Java Pengelompokan Aritmatika.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Switch Case/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Switch Case/Java Switch Case.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Ternary Operator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java Ternary Operator/Java Ternary Operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java While Loop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Java While Loop/Java While Loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas Java/Tugas Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tutor java/Tutor java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Comment/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Comment/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Comment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Comment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Comment/Java Comment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Comment/Java Comment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Comment/src/com/tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Comment/src/com/tutorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/Java Komparasi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/Java Komparasi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/Screenshot (48).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Komparasi/out/production/Java Komparasi/com/tutorial/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Konversi/Java Konversi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Konversi/Java Konversi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Operator Aritmatika (Unary)/Java Operator Aritmatika (Unary).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Operator Aritmatika (Unary)/Java Operator Aritmatika (Unary).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Operator Aritmatika/Java Operator Aritmatika.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Operator Aritmatika/Java Operator Aritmatika.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Operator Assigment/Java Operator Assigment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Operator Assigment/Java Operator Assigment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Output/Java Output.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Output/Java Output.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java String Args/Java String Args.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java String Args/Java String Args.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Tipe Data Primitive/Java Tipe Data Primitive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Tipe Data Primitive/Java Tipe Data Primitive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Java Variable/Java Variable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Java Variable/Java Variable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/Program Java 01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/Program Java 01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/out/production/Program Java 01/com/tutorial/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/out/production/Program Java 01/com/tutorial/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/src/com/tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas Java/Program Java 01/src/com/tutorial/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/tutorial/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1668348319555" />
+    <property name="last_opened_file_path" value="D:/labs/day11/prosesjson01" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorial.Main" />
+      <module name="variable , tipe data , aritmatika" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9575d2da-5add-4b1e-b182-0568b3dc321c" name="Default Changelist" comment="" />
+      <created>1668343819892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668343819892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="697" height="727" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37048665" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Run" order="8" weight="0.32829046" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/tutorial/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/labs/day10/jpamysqlpedas/src/main/java/id/co/indivara/jdt11/jpamysqlpedas/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>variable , tipe data , aritmatika</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

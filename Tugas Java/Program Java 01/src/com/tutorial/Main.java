@@ -1,24 +1,31 @@
 package com.tutorial;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-    //VARIABLE
-        String nama= "Allisha" , alamat="laut";
-        System.out.println("nama saya "+ nama + " dan rumah saya di" + alamat);
+        Scanner userInput =  new Scanner(System.in);
+        String nama, alamat , notlp;
+        int umur;
 
-     //ASSIGMENT
-        int umur=18;
-        System.out.println("usia saya " + umur);
+        // FORM PENDAFTARAN SISWA
 
-     //DEKLARASI
-        int x, y ,z;
-        x=128;
-        y= 4;
-        z=x / y;
-        System.out.println("hasil nya adalah " + z);
+        System.out.println("==========FORM PENDAFTARAN SISWA==========");
+        System.out.print(" nama    = ");
+        nama = userInput. nextLine();
+        System.out.print(" alamat  = ");
+        alamat = userInput. nextLine();
+        System.out.print(" notlp   = ");
+        notlp = userInput. nextLine();
+        System.out.print(" umur    = ");
+        umur = userInput. nextInt();
+        System.out.println("==========FORM PENDAFTARAN SISWA==========");
+        System.out.println(" nama    = " + nama);
+        System.out.println(" alamat  = " + alamat);
+        System.out.println(" notlp   = " + notlp);
+        System.out.println(" umur    = " + umur);
 
-     //SISTEM OUTPUT
-        System.out.printf("kakek saya berumur %d %s \n ",120, "tahun");
+
     }
 }
